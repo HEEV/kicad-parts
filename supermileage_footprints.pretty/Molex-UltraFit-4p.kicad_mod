@@ -1,4 +1,4 @@
-(module Molex-UltraFit-4p (layer F.Cu) (tedit 5A75CD1B)
+(module Molex-UltraFit-4p (layer F.Cu) (tedit 5A75EABE)
   (fp_text reference REF** (at 3.81 -1.27) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -19,5 +19,5 @@
   (pad 3 thru_hole circle (at 2.25 5) (size 1.7 1.7) (drill 1.02) (layers *.Cu *.Mask))
   (pad 4 thru_hole circle (at 5.75 5) (size 1.7 1.7) (drill 1.02) (layers *.Cu *.Mask))
   (pad 1 thru_hole circle (at 2.25 2) (size 1.7 1.7) (drill 1.02) (layers *.Cu *.Mask))
-  (pad "" np_thru_hole circle (at 3.99 12.93) (size 3.05 3.05) (drill 3.05) (layers *.Cu *.Mask F.SilkS))
+  (pad "" thru_hole circle (at 3.99 12.93) (size 3.556 3.556) (drill 3.05) (layers *.Cu *.Mask))
 )
